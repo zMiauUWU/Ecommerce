@@ -11,6 +11,6 @@ public class ProdutoController : ControllerBase
     {
         return "hello world ";
     }
-    //
-    [HttpGet("hello world")]
+    
+  
 }
